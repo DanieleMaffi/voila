@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "[*] Creating Python venv if there isn't one yet..\n."
 
 if [ -d venv ]; then
